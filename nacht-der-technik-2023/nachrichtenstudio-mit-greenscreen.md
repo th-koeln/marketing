@@ -7,3 +7,7 @@ Konzepte, Technologien und Arbeitsabläufe wie dieser werden in den Medieninform
 Module: Vertiefungsmodul Visual Computing, Studio Live Produktion
 Ansprechpartner: Simon Porten, Oliver Mertens, Tom Gerold
 Insitut: Advanced Media Institute
+
+Mehr zum Vertiefungsmoduel Visual Computing
+
+Mehr zum Studiengang Medieninformatik Bachelor
