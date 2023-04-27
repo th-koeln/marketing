@@ -12,7 +12,10 @@ Ansprechpartner: Mario Faske
 Insitut: Advanced Media Institute
 
 Mehr zum Vertiefungsmoduel Weaving the Web
+<qr-code>
 
 Mehr zum Studiengang Medieninformatik Master
+<qr-code>
 
 Mehr zum Cranach Digital Archive
+<qr-code>

@@ -16,5 +16,7 @@ Insitut: CIDE, Advanced Media Institute
 Die MachBar 3.206 ist ein geteilter kreativer Space des CIDE und Advanced Media Institute
 
 Mehr zum Vertiefungsmoduel Visual Computing
+<qr-code>
 
 Mehr zum Studiengang Medieninformatik Bachelor
+<qr-code>

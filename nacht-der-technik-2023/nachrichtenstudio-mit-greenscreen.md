@@ -9,5 +9,7 @@ Ansprechpartner: Simon Porten, Oliver Mertens, Tom Gerold
 Insitut: Advanced Media Institute
 
 Mehr zum Vertiefungsmoduel Visual Computing
+<qr-code>
 
 Mehr zum Studiengang Medieninformatik Bachelor
+<qr-code>

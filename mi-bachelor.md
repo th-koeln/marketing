@@ -8,3 +8,7 @@ Der Studiengang besteht im Kern aus zwei parallelen Strängen: einem Informatik 
 
 
 Mehr zum Medieninformatik Bachelor
+<qr-code>
+
+Infos für Studieninteressierte
+<qr-code>
