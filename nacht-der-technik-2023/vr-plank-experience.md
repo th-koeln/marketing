@@ -7,7 +7,7 @@ Bei dieser Station kann eine ziemlich neue Technologie ausprobiert werden: Augum
 
 HTC Vive und eine echte Holzplanke. Einfache Hilfsmittel zeigen wie man die Immersion so weit steigern kann das es schwär Feld sich selbst zu überzeugen das die Situation sicher und nur simuliert ist. Dabei ist die genutzte Anwendung besonders umfangreich noch grafisch fotorealistisch. Wir nutzen diese Anwendung gerne, um zu verdeutlichen wie eine virtuelle Realität auf uns wirken kann und wie wenig für unser Gehirn notwendig ist in eine Anwendung gezogen zu werden.
 
-Konzepte, Technologien und Arbeitsabläufe wie dieser werden in den Medieninformatik Studiengängen hier am Campus genutzt, eingeübt, analysiert und optimiert. Im Medieninformatik Bachelor gibt es für diesen Bereich ein eigenes Vertiefungsmodul «Visual Computing». Im Medieninformatik Master gibt es einen ganzen Schwerpunkt zu diesem Gebiet.
+Konzepte und Technologien wie dieser werden in den Medieninformatik Studiengängen hier am Campus genutzt, analysiert und optimiert. Im Medieninformatik Bachelor gibt es für diesen Bereich ein eigenes Vertiefungsmodul «Visual Computing». Im Medieninformatik Master gibt es einen ganzen Schwerpunkt zu diesem Gebiet.
 
 Module: Vertiefungsmodul Visual Computing, Computergrafik, Schwerpunkt Visual Computing
 Ansprechpartner: Dennis Wilk
