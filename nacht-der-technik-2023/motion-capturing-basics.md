@@ -1,12 +1,14 @@
-Name: Motion Capturing Basics
+# Motion Capturing Basics
 
-Labor/Studiengang: AMI/MI
+Hier können Besucher:innen Motion Capturing selbst ausprobieren und Grundsätzliches über den Einsatz, die Funktionsweise aber auch die Probleme und Tücken der Technoligie erfahren und erleben. Technisch werden hier via Bilderkennung Körperteile, deren Position  
+und Rotation im Raum erfasst, berechnet und auf ein digitales Skelett übertragen. Von hier aus kann die erfasste Bewegung dann weiter verarbeitet werden, z.B. für ein Film oder ein Charakter in einem Videospiel.
 
-Was passiert: Besucher können Motion Capturing selbst ausprobieren und  
-Grundsätzliches über den Einsatz und die Funktionsweise erfahren.
+Konzepte, Technologien und Arbeitsabläufe wie dieser werden in den Medieninformatik Studiengängen hier am Campus genutzt, eingeübt, analysiert und optimiert. Im Medieninformatik Bachelor gibt es für diesen Bereich ein eigenes Vertiefungsmodul «Visual Computing». Im Medieninformatik Master gibt es einen ganzen Schwerpunkt zu diesem Gebiet.
 
-Was steckt dahinter: Bilderkennung von Körperteilen, deren Position  
-und Rotation im Raum berechnet wird. Diese Informationen werden dann  
-zur Weiterverwendung auf ein digitales Skelett übertragen.
+Module: Vertiefungsmodul Visual Computing, Visuelle Effekte und Animation, 3D-Modellieren, -Scannen, -Drucken
+Ansprechpartner: Jens Burgdorf
+Insitut: Advanced Media Institute
 
-In welchen Modulen wird das genutzt/besprochen: VEA und 3D-MSD
+Mehr zum Vertiefungsmoduel Visual Computing
+
+Mehr zum Studiengang Medieninformatik Bachelor
