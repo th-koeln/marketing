@@ -1,5 +1,5 @@
 # Die Werke von Lucas Cranach
-# Augumented Reality
+## Augumented Reality
 
 Bei dieser Station kann eine ziemlich neue Technologie ausprobiert werden: Augumented Reality im Web Browser. Augumented Reality gibt es schon recht lange. Bislang war dazu aber die Installation und Nutzung einer nativen Anwendung erforderlich. In Zukunft wird es möglich sein, AR auch im Web Browser zu nutzen. Diese Technoligie ist gerade in der Entwicklungs- und Standardisierungsphase.
 
