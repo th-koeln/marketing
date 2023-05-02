@@ -4,9 +4,35 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/calvinhnzr/Desktop/marketing/nacht-der-technik-2023/poster/Document fonts/AdobeFnt23.lst
-FileLength:5208
-FileModTime:704719369
+OutlineFileName:/Users/calvinhnzr/Desktop/mi-sd-banner Ordner/Document fonts/AdobeFnt23.lst
+FileLength:5018
+FileModTime:704749222
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/calvinhnzr/Desktop/mi-sd-banner Ordner/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:703619075
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
 %EndFont
 
 %BeginFont
@@ -22,7 +48,7 @@ WidthClass:5
 AngleClass:0
 FullName:PT Sans Bold
 WritingScript:Roman
-OutlineFileName:/Users/calvinhnzr/Desktop/marketing/nacht-der-technik-2023/poster/Document fonts/PTSans.ttc
+OutlineFileName:/Users/calvinhnzr/Desktop/mi-sd-banner Ordner/Document fonts/PTSans.ttc
 TTCOffset:2380
 DataFormat:sfntData
 hasSVG:no
@@ -47,7 +73,7 @@ WidthClass:5
 AngleClass:1
 FullName:PT Sans Bold Italic
 WritingScript:Roman
-OutlineFileName:/Users/calvinhnzr/Desktop/marketing/nacht-der-technik-2023/poster/Document fonts/PTSans.ttc
+OutlineFileName:/Users/calvinhnzr/Desktop/mi-sd-banner Ordner/Document fonts/PTSans.ttc
 TTCOffset:2048
 DataFormat:sfntData
 hasSVG:no
@@ -72,7 +98,7 @@ WidthClass:5
 AngleClass:0
 FullName:PT Sans Caption
 WritingScript:Roman
-OutlineFileName:/Users/calvinhnzr/Desktop/marketing/nacht-der-technik-2023/poster/Document fonts/PTSans.ttc
+OutlineFileName:/Users/calvinhnzr/Desktop/mi-sd-banner Ordner/Document fonts/PTSans.ttc
 TTCOffset:1716
 DataFormat:sfntData
 hasSVG:no
@@ -97,7 +123,7 @@ WidthClass:5
 AngleClass:0
 FullName:PT Sans Caption Bold
 WritingScript:Roman
-OutlineFileName:/Users/calvinhnzr/Desktop/marketing/nacht-der-technik-2023/poster/Document fonts/PTSans.ttc
+OutlineFileName:/Users/calvinhnzr/Desktop/mi-sd-banner Ordner/Document fonts/PTSans.ttc
 TTCOffset:1384
 DataFormat:sfntData
 hasSVG:no
@@ -122,7 +148,7 @@ WidthClass:5
 AngleClass:1
 FullName:PT Sans Italic
 WritingScript:Roman
-OutlineFileName:/Users/calvinhnzr/Desktop/marketing/nacht-der-technik-2023/poster/Document fonts/PTSans.ttc
+OutlineFileName:/Users/calvinhnzr/Desktop/mi-sd-banner Ordner/Document fonts/PTSans.ttc
 TTCOffset:388
 DataFormat:sfntData
 hasSVG:no
@@ -147,7 +173,7 @@ WidthClass:3
 AngleClass:0
 FullName:PT Sans Narrow
 WritingScript:Roman
-OutlineFileName:/Users/calvinhnzr/Desktop/marketing/nacht-der-technik-2023/poster/Document fonts/PTSans.ttc
+OutlineFileName:/Users/calvinhnzr/Desktop/mi-sd-banner Ordner/Document fonts/PTSans.ttc
 TTCOffset:1052
 DataFormat:sfntData
 hasSVG:no
@@ -172,7 +198,7 @@ WidthClass:3
 AngleClass:0
 FullName:PT Sans Narrow Bold
 WritingScript:Roman
-OutlineFileName:/Users/calvinhnzr/Desktop/marketing/nacht-der-technik-2023/poster/Document fonts/PTSans.ttc
+OutlineFileName:/Users/calvinhnzr/Desktop/mi-sd-banner Ordner/Document fonts/PTSans.ttc
 TTCOffset:720
 DataFormat:sfntData
 hasSVG:no
@@ -197,7 +223,7 @@ WidthClass:5
 AngleClass:0
 FullName:PT Sans
 WritingScript:Roman
-OutlineFileName:/Users/calvinhnzr/Desktop/marketing/nacht-der-technik-2023/poster/Document fonts/PTSans.ttc
+OutlineFileName:/Users/calvinhnzr/Desktop/mi-sd-banner Ordner/Document fonts/PTSans.ttc
 TTCOffset:56
 DataFormat:sfntData
 hasSVG:no
