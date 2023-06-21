@@ -16,9 +16,9 @@ Die Medieninformatik befähigt Studierende u.A. in folgenden beruflichen Handlun
 - **Konzeption** von Nutzungsschnittstellen für verschiedenste technische Produkte und Services
 - **Entwicklung** von Software für interaktive und verteilte Anwendungen
 - **Exploration** neuer Möglichkeiten im Kontext menschen-naher Digitalisierung
-- **User Experience** Research und Gestaltung
+- **Gestaltung** der User Experience digitaler Medien und interaktiver digitaler Produkte
 - **Innovation** in der Entwicklung digitaler Produkte
-- **Gestaltung** und **Implementierung** von Interaktion zwischen Menschen, Medien und digitalen Systemen
+- **Evaluation** der Interaktion zwischen Menschen, Medien und digitalen Systemen
 - Menschzentrierte **Digitaliserung** des (Berufs-)Alltags
 - lösungsorientierte **Visualisierung** von Information über interaktive Medien
 - **Kommunikation** in Entwicklungsprojekten: Integration über interdisziplinäre Grenzen hinweg (Brückenbauer:innen, Schnittstelle)
